@@ -1,0 +1,27 @@
+"category": [
+    {
+      "id": 1,
+      "label": "Korku",
+      "image": "https://i20.haber7.net/resize/1240x720//haber/haber7/photos/2019/44/korku_filmi_izlemenin_vucuda_faydalari_aciklandi_fazladan_kalori_yaktiriyor_1572521157_058.jpg",
+      "active": "true"
+    },
+    {
+      "id": 2,
+      "label": "Komedi",
+      "image": "https://i4.hurimg.com/i/hurriyet/75/750x0/5d792ec845d2a023a0dbe4d3.jpg",
+      "active": "false"
+    },
+    {
+      "id": 3,
+      "label": "Romantik",
+      "image": "https://cdn1.ntv.com.tr/gorsel/DHZL48KGAEyOGTrOjz2Zag.jpg?width=1000&mode=crop&scale=both",
+      "active": "false"
+    },
+    {
+      "id": 4,
+      "label": "Bilim",
+      "image": "https://img-s3.onedio.com/id-60785dff06d02e653b0f8be8/rev-0/w-900/h-585/f-jpg/s-14ddddbe75d427a38df5dce82fb576bd7a51f9ca.jpg",
+      "active": "false"
+    }
+  ]
+}
