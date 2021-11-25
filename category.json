@@ -19,9 +19,22 @@
     },
     {
       "id": 4,
-      "label": "Bilim",
+      "label": "Bilim-Kurgu",
       "image": "https://img-s3.onedio.com/id-60785dff06d02e653b0f8be8/rev-0/w-900/h-585/f-jpg/s-14ddddbe75d427a38df5dce82fb576bd7a51f9ca.jpg",
       "active": "false"
-    }
+    },
+  {
+      "id": 5,
+      "label": "Aksiyon",
+      "image": "https://tr.web.img2.acsta.net/pictures/15/06/25/11/00/418961.jpg",
+      "active": "false"
+    },
+   {
+      "id": 6,
+      "label": "Macera",
+      "image": "https://cdn.webtekno.com/media/cache/content_detail_v2/article/110765/john-wick-benzeri-aksiyon-filmleri-1622893285.jpg",
+      "active": "false"
+    },
+  
   ]
 
